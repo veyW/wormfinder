@@ -3,11 +3,11 @@
 
 
 ## Description 
-This script is designed to detect worms of different stages (brightfield images of liquid cultures in 96 well plates) and return their body area and length. 
+This script is designed to detect worms of different sizes and stages (brightfield images of cultures in 96 well plates), remove any overlapping animals, and return body area and length of individual wors. 
 
 ## Requirements
 
-We recommend using 	Matlab version > R2017b.
+Please use Matlab version > R2017b.
 
 ## Test
 
@@ -31,3 +31,4 @@ Once you get something working for your dataset, feel free to edit any part of t
 ## Resources
 
 - [Matlab documentation](https://www.mathworks.com/help/matlab/)
+- [Image Segmentation Tutorial] (https://www.mathworks.com/matlabcentral/fileexchange/25157-image-segmentation-tutorial)
