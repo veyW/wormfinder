@@ -31,4 +31,4 @@ Once you get something working for your dataset, feel free to edit any part of t
 ## Resources
 
 - [Matlab documentation](https://www.mathworks.com/help/matlab/)
-- [Image Segmentation Tutorial] (https://www.mathworks.com/matlabcentral/fileexchange/25157-image-segmentation-tutorial)
+- [Image Segmentation Tutorial](https://www.mathworks.com/matlabcentral/fileexchange/25157-image-segmentation-tutorial)
